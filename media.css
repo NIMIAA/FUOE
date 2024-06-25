@@ -1,5 +1,6 @@
 @media(max-width:768px){
-    .topbar-nav a{
+    .signin,
+    .login{
         display: none;
     }
     .topbar-logo img{
