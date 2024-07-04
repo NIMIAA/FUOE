@@ -32,6 +32,10 @@
     .page-stats{
         margin-bottom: 40px;
     }
+    .landpage .search{
+        width: 400px;
+        left: 10px;
+    }
     .landingpage-footer{
         height: 100vh;
         
